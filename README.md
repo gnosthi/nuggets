@@ -8,15 +8,25 @@ I will attempt to collect and collate little nuggets of wisdowm I have gleened h
 ### Ansible Tower
 
 ### Continuous Deployment
+- The dream.
 
 ### Continous Development
 
 ### Continous Integration
 
 ### DevOPs Planning
+
+### Code Management
+- Reduce idle code wherever possible.
+
+#### Testing
 - tests should be descriptive of the problem to be solved, not prescriptive of the technology that should be used
+- Part of testing should include a security review.
+- Something isn't urgent unless it is so critical that you can't grab dinner until its fixed. 
 
 ### Git Implementation
+- There's a branch for that.
+
 
 ### Git Usage
 - Don't ever use `git add .`
@@ -40,3 +50,5 @@ I will attempt to collect and collate little nuggets of wisdowm I have gleened h
 ### Python
 
 ### Ruby
+
+## Project Management
